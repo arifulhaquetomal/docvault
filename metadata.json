@@ -1,0 +1,7 @@
+{
+  "name": "DocVault AI",
+  "description": "Securely organize and categorize your documents in your personal Google Drive with AI-powered tagging and summarization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
